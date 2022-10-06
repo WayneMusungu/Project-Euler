@@ -21,3 +21,14 @@ if(isPalindrome(a)==True):
     print("String is a palindrome!")
 else:
     print("String isn't a palindrome!")
+
+
+def isPalindrome(strng):
+    if strng == strng[::-1]:
+        return True
+    else:
+        return False
+
+strng="amanaplanacanalpanama"
+print(isPalindrome(strng))
+
