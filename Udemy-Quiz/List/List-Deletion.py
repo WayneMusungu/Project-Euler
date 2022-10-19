@@ -24,7 +24,7 @@ myList = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
 del myList[2]
 print(myList)
 
-#3. delete() => Very useful when you know the element itself, no need to provide the index
+#3. remove() => Very useful when you know the element itself, no need to provide the index
 
 #Time Complexity O(n)
 
