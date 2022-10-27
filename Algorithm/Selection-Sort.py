@@ -64,3 +64,10 @@ def selectionSort(customList):
 
 cList = [2,1,7,6,5,3,4,9,8]
 selectionSort(cList)
+
+# When to use Selection Sort
+ # When we have insufficient memory
+ # Easy to implement
+
+# When to avoid Selection Sort
+ # When time is a concern
