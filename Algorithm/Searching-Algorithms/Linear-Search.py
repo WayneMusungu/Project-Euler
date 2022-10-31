@@ -6,6 +6,16 @@
 # 2. If x matches with the element, return the index
 # 3. If x doesn't match with any of the index, return -1
 
+
+
+# Linear Search Psuedocode 
+#- Create function with rtwo parameters which are an array and a value
+#- Loop through the array and check if the current array element is equal to the value
+#- If it is, return the index at which the element is found
+#- If the value is ever found return -1
+
+
+
 array = [1,10,15,7,8,9,6,3]
 x = 10
 
