@@ -1,0 +1,13 @@
+What is a graph?
+
+A graph consists of finite set of Vertices(or nodes) annd a set of Edges which connects a pair of nodes
+
+Why do we need graphs?
+They are used to represent networks i.e:
+	Telephone network, circuit network, path in a city
+Social networks i.e
+	LinkedIn, Facebook
+Finding the shortest path
+
+Graphs have an advantage over tree data structure because they have a cycle
+
