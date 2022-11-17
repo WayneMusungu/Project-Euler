@@ -1,0 +1,8 @@
+Single Source Shortest Path Problem
+
+A single source problem is about finding a path between a given vertex to all other vertices in a graph such that the total distance between them is minimum
+
+Algorithm used to solve SSPP:
+1. BFS
+2. Dijkstra's Algorithm
+3. Bellman Ford
